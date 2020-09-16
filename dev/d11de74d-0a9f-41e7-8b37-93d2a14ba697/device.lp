@@ -1,11 +1,12 @@
 (librepcb_device d11de74d-0a9f-41e7-8b37-93d2a14ba697
- (name "LM393")
+ (name "LMx93-N")
  (description "LMx93-N, LM2903-N Low-Power, Low-Offset Voltage, Dual Comparators")
  (keywords "LM193,LM2903,LM293,LM393")
  (author "Johannes Bauer")
  (version "0.1")
  (created 2020-09-09T19:10:46Z)
  (deprecated false)
+ (category 6b8cb737-30d9-49e2-831c-34aa909ef85e)
  (component f4d5dec7-133c-41c4-b32a-3e8c50efed99)
  (package d1e4b152-0fd5-4ced-9c46-691c0e1d7105)
  (pad 01f34160-65de-4e5e-9db1-3e186d38b186 (signal 05150e28-b80e-4ad6-be7a-b4b90dcea1d7))
