@@ -1,0 +1,12 @@
+(librepcb_device 9f85da22-3262-4b64-9411-587fc0bb171c
+ (name "Annotation-Box")
+ (description "")
+ (keywords "")
+ (author "Johannes Bauer")
+ (version "0.1")
+ (created 2020-09-25T20:42:55Z)
+ (deprecated false)
+ (category bd6346a1-5cbf-4b28-a62b-637d8e1a225d)
+ (component 8d80b385-03b3-471e-8dec-0b283cbb6f94)
+ (package 65501b3b-e3eb-45ea-a8d8-48102ed82256)
+)

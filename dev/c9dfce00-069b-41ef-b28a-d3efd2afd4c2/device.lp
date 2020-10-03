@@ -1,0 +1,12 @@
+(librepcb_device c9dfce00-069b-41ef-b28a-d3efd2afd4c2
+ (name "Annotation-Plain")
+ (description "")
+ (keywords "")
+ (author "Johannes Bauer")
+ (version "0.1")
+ (created 2020-09-25T20:49:12Z)
+ (deprecated false)
+ (category bd6346a1-5cbf-4b28-a62b-637d8e1a225d)
+ (component 063670d9-28f1-4409-bd4d-c1d321b1df12)
+ (package 65501b3b-e3eb-45ea-a8d8-48102ed82256)
+)
