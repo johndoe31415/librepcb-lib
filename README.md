@@ -25,6 +25,8 @@ Latest version I worked with is 0.2.0-unstable 0046d47387.
   * Text cannot be placed on schematic.
   * Highlighting of a particular net throughout the whole schematic.
   * More keyboard shortcuts for everything (net, rotate, place component, etc.)
+  * In footprint editor, ability to modify multiple parts at once (e.g., mark
+    four pads and change size of all of them to 2.2mm x 0.8mm)
 
 ## License
 CC0-1.0.
