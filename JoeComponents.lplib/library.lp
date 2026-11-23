@@ -8,4 +8,5 @@
  (deprecated false)
  (url "")
  (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
+ (manufacturer "")
 )
