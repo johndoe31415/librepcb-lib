@@ -1,12 +1,11 @@
-(librepcb_library a5d951bc-6567-477e-8cac-80d9d1a46787
+(librepcb_library 57233b5b-2060-4bc8-aaad-c1513ea31237
  (name "JoeComponents")
- (description "Various components and ICs")
+ (description "")
  (keywords "")
  (author "Johannes Bauer")
- (version "0.1")
- (created 2020-09-09T19:07:03Z)
+ (version "0.2")
+ (created 2026-11-23T19:38:56Z)
  (deprecated false)
  (url "")
- (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
  (manufacturer "")
 )
